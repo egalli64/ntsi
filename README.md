@@ -1,5 +1,5 @@
 # ntsi
-TypeScript introduction
+TypeScript introduction (on NodeJS)
 
 NodeJS: https://nodejs.org/
 TypeScript: npm install -g typescript
